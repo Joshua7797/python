@@ -1,0 +1,4 @@
+#example on byte datatype
+elements = [10,20,30,40,50]
+x=bytes(elements)
+print(x[2])
